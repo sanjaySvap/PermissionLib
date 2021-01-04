@@ -1,4 +1,4 @@
-package com.mf.utils.permission
+package com.permissionlib.permission
 
 import android.annotation.TargetApi
 import android.app.AlertDialog
@@ -12,8 +12,6 @@ import android.provider.Settings
 import android.text.TextUtils
 import androidx.appcompat.app.AppCompatActivity
 import com.permissionlib.R
-import com.permissionlib.ui.permission.PermissionCallback
-import com.permissionlib.ui.permission.Permissions
 import java.util.*
 
 @TargetApi(Build.VERSION_CODES.M)

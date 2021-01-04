@@ -1,8 +1,10 @@
-package com.permissionlib.ui.permission
+package com.permissionlib.permission
 
 import android.app.Activity
 import android.content.Context
 import android.util.Log
+import com.permissionlib.permission.PermissionCallback
+import com.permissionlib.permission.Permissions
 import java.util.ArrayList
 
 class PermissionHelper(private val mActivity: Activity) {

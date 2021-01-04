@@ -1,4 +1,4 @@
-package com.permissionlib.ui.permission
+package com.permissionlib.permission
 
 import android.content.Context
 import android.widget.Toast

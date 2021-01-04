@@ -1,11 +1,10 @@
-package com.permissionlib.ui.permission
+package com.permissionlib.permission
 
 import android.content.Context
 import android.content.Intent
 import android.content.pm.PackageManager
 import android.os.Build
 import android.util.Log
-import com.mf.utils.permission.PermissionActivity
 import java.io.Serializable
 import java.util.*
 
